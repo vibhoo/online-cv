@@ -1,24 +1,20 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Side projects"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title: FotoFlex
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Foto Flex was a web based editor which provided the interface to the user to upload their photos and then they could perform basic image editing's, Project was based on ActionScript3."
 - project:
-  title: Tempo
+  title: Download Manager
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "Simple download manager, based on Java Swing"
 - project:
-  title: Atom
+  title: gooter-gu
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  tagline: "Gooter-gu was social network website similar to twitter, but here users were allowed to post more than 140 characters and write their own blogs. Rails was used for the product development."
 - project:
-  title: Delta
+  title: Tutshunt
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Tutshunt was inspired by product hunt which was focused on sharing the links of your favourite tutorials, so that it could benefit or help other users who are looking for the same. Tutshunt grew very rapidly and exponentially, added several features such as the top performing link chart page which depicted which tutorial is popular among all of the community."
+

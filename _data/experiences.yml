@@ -1,28 +1,25 @@
+- experience: 
+  role: Full Stack Web Developer
+  time: Jan. 2015 - Dec.2017
+  company: Hashtag Loyalty Pvt. Ltd.
+  details: "Headed the engineering team to create the Customer Loyalty & Marketing Automation Solution for SME's and SMB's. Created the product from scratch and scaled the prodcut across verticals. 
+  <br> <br>"
+
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: RoR - Engineer
+  time: June 2014 - Dec. 2014
+  company: Vavia Technologies
+  details: "Created serveral SMS applications for http://txtbrowser.com which involved the scraping of the website data and sending usefull data back to the requested user. 
+  <br>
+  Worked on various web scrappers which involved scrapping of data of top e-commerce website."
+
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Freelance developer
+  time: Jan. 2014 - June 2014
+  details: "As a freelance developer worked on 2 different projects which involved the basic structure up and running."
+
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Product Engineer
+  time: Sep.2012 - Nov.2013
+  company: Sociorent Student Service Pvt. Ltd., Bangalore
+  details: "Laid the basic foundation of the product using RoR and started building the product(website)"

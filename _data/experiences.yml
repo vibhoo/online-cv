@@ -1,7 +1,22 @@
 - experience: 
+  role: Lead Engineer
+  time: Jan 2018 - Present
+  company: ReferHire
+  details: "
+  Lead the front-end refracting of the overall product, while reducing the load on the server <br>
+  Build various suggestions APIs using Solr <br>
+  Working on entire product <br>
+  Leading/coordinating with the freelance developers <br>
+  Automating various tasks. <br>
+  Building several scrapers using ruby, puppeteer <br>
+  google analytics across various features <br>
+  Build in house error reporting tool using Logstash, Kafka and rails o Designed email templates <br>
+  Mobile responsive site development <br> <br>"
+
+- experience: 
   role: Full Stack Web Developer
   time: Jan. 2015 - Dec.2017
-  company: Hashtag Loyalty Pvt. Ltd.
+  company: Hashtag Loyalty
   details: "Headed the engineering team to create the Customer Loyalty & Marketing Automation Solution for SME's and SMB's. Created the product from scratch and scaled the prodcut across verticals. 
   <br> <br>"
 

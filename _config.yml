@@ -1,20 +1,21 @@
 # Site Settings
 title: Resume
 url: 'http://vibhoo.github.io'
-baseurl: '/' #change it according to your repository name
+#baseurl: '/' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles
 #style: styles-2
 #style: styles-3
 #style: styles-4
-style: styles-5
+#style: styles-5
 #style: styles-6
 
 #Profile information
 name: Vibhoo Mishra
-tagline: Software Developer Engineer
-pic: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Exp. web developer with demonstrated skill in developing the product from scratch and scaling the product. Seeking a quality environment where my knowledge and experience can be shared and enriched.'
+tagline: Lead Engineer
+pic: profile3.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Full Stack Engineer. Creating project from strach'
 
 #sidebar links
 email: vibhoo.mishra04@gmail.com
